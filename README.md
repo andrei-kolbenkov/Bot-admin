@@ -1,7 +1,7 @@
 # Bot-admin
 Bot-admin for telegram chat
 
-Данный телеграм-бот написан на языке Python с использованием Aiogram. Бот выполняет функции модератора в чате или группе Telegram. Для запуска необходимо добавить бота администратором в группу. Управление ботом происходит через меню по команде "/admin". В текстовых файлах хранятся шаблоны сообщений бота, а также нецензурные слова для фильтрации.
+Данный телеграм-бот написан на языке Python с использованием Aiogram. Бот выполняет функции модератора в чате или группе Telegram. Для запуска необходимо добавить бота администратором в группу. Управление ботом происходит через меню по команде "/admin". В текстовых файлах хранятся шаблоны сообщений бота, а также нецензурные слова для фильтрации (файл пустой, его нужно заполнить самим).
 
 Функции:
   - Удаление системных сообщения (пользователь вступил/покинул группу, сообщение закреплено)
@@ -16,7 +16,7 @@ Bot-admin for telegram chat
 
 
 
-This telegram bot is written in Python using Aiogram. The bot acts as a moderator in a Telegram chat or group. To start, you need to add the bot to the group as an administrator. The bot is controlled through the menu by the command "/admin". The text files contain templates of the bot's messages, as well as obscene words for filtering.
+This telegram bot is written in Python using Aiogram. The bot acts as a moderator in a Telegram chat or group. To start, you need to add the bot to the group as an administrator. The bot is controlled through the menu by the command "/admin". The text files contain templates of the bot's messages, as well as obscene words for filtering (the file is empty, you need to fill it in yourself).
 
 Functions:
   - Deleting system messages (the user joined/left the group, the message is pinned)
